@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006.04.07 18:12:48.468.bdsproj,C:\Documents and Settings\Администратор\Мои документы\Borland Studio Projects\Project1.bdsproj=F:\Документы, НАХ\FreeChess2\src\Endine\fc2.bdsproj</Transaction>
+    <Transaction>2006.04.14 23:16:30.156.bdsproj,F:\Документы, НАХ\FreeChess2\src\Engine\fc2.bdsproj=F:\Документы, НАХ\FreeChess2\src\Engine\FreeChess2uci.bdsproj</Transaction>
+    <Transaction>2006.04.14 23:18:00.453.pas,F:\Документы, НАХ\FreeChess2\src\Engine\Unit1.pas=F:\Документы, НАХ\FreeChess2\src\Engine\History.pas</Transaction>
+  </Transactions>
+</BorlandProject>

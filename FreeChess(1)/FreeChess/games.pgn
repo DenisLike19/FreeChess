@@ -1,0 +1,36 @@
+[Event "ZIT Computer Chess Tournament"]
+[Site "Zlatoust RUS"]
+[Date "XX.XX.XXXX"]
+[White "ёзер ёзерович ;-)))"]
+[Black "FreeChess v 2.16c"]
+[Result "0-1"]
+[PlyCount "28"]
+1. f4 d5 2. d4 Bf5 3. Nc3 e6 4. e3 Bb4 5. Qd2 Nf6 6. a3 Ne4 7. Qd3 Bxc3+ 8. bxc3 Qh4+ 9. g3 Nxg3 10. hxg3 Qxg3+ 11. Ke2 Bxd3+ 12. Kxd3 c5 13. Rh3 Qe1 14. Bd2 c4+ 0-1
+
+[Event "ZIT Computer Chess Tournament"]
+[Site "Zlatoust RUS"]
+[Date "XX.XX.XXXX"]
+[White "ёзер ёзерович ;-)))"]
+[Black "FreeChess v 2.16c"]
+[Result "0-1"]
+[PlyCount "38"]
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d3 d5 5. Nb5 dxe4 6. dxe4 Nxe4 7. Nxc7+ Qxc7 8. Bg5 Bb4+ 9. c3 Nxc3 10. bxc3 Bxc3+ 11. Nd2 Bxa1 12. Qxa1 Be6 13. Bc4 Bxc4 14. Nxc4 Nd4 15. Qc3 b5 16. Ne3 Qxc3+ 17. Kd1 Rc8 18. Nd5 Qd3+ 19. Ke1 Qe2+ 0-1
+
+[Event "ZIT Computer Chess Tournament"]
+[Site "Zlatoust RUS"]
+[Date "XX.XX.XXXX"]
+[White "ёзер ёзерович ;-)))"]
+[Black "FreeChess v 2.16c"]
+[Result "0-1"]
+[PlyCount "54"]
+1. e4 e6 2. Ke2 d5 3. Nf3 dxe4 4. Ne5 Bc5 5. d4 Qxd4 6. Qxd4 Bxd4 7. c3 Bxe5 8. Bg5 h6 9. Ke3 hxg5 10. Kxe4 Nf6+ 11. Ke3 Bf4+ 12. Ke2 Rxh2 13. Rxh2 Bxh2 14. g3 e5 15. c4 Nc6 16. Nc3 Nd4+ 17. Kd3 Bg1 18. f3 Bf5+ 19. Kd2 Rd8 20. Ne4 Nxf3+ 21. Ke2 Bxe4 22. Rd1 Nd4+ 23. Rxd4 Rxd4 24. Bh3 g4 25. Bxg4 Nxg4 26. Kf1 Bf3 27. Kxg1 Rd1+ 0-1
+
+[Event "ZIT Computer Chess Tournament"]
+[Site "Zlatoust RUS"]
+[Date "XX.XX.XXXX"]
+[White "ёзер ёзерович ;-)))"]
+[Black "FreeChess v 2.16c"]
+[Result "0-1"]
+[PlyCount "1"]
+1. h3 0-1
+
